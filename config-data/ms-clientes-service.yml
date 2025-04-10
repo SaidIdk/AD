@@ -2,7 +2,7 @@ server:
   port: 8084
 spring:
   application:
-    name: ms-cliente-service
+    name: ms-clientes-service
 
   datasource:
     url: jdbc:mysql://localhost:3306/ms-clientes
